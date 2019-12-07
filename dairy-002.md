@@ -8,4 +8,12 @@ I was looking for something simple, so the course description, material and lear
 I am open to trying new learning sites, so I decided to give FiTech a chance. While looking through the course list I noticed I did have not a lot of time to enroll in this course and the course was starting soon, so that was a reason for taking the course. It just so happened that it fit in nicely with my work and study schedules since I have not been able to attend a face-to-face course at Metropolia for over two years.
 
 # learned
-explaining something new that you learned with the course and which was the most (or least) challenging part of it. The related textual content should be between 250 and 500 words combined.
+One thing I learned during the course was destructive testing. Having done software testing and reported bugs for years, the concept of testing the reliability of software immediately clicked with me. I wouldn’t go so far as to pour water into servers, but a little chaos can do the world some good.
+
+It was interesting to learn how some companies encourage destructive testing and schedule game days. I found the concept of a game day very helpful because it not only gets people face-to-face but encourages group work and discussions on how to fix potential problems.
+
+Sometimes a test suite or plan will have someone do very specific things with the software. That is, alright and needed for repetition as well as quality assurance. But what about going one step further? What are the unknowns? How reliable is this or that service? These questions and others are fascinating to me. Sometimes the smallest commit or something perceived as a simple thing to add to the software can break the entire thing. Knowing what those things are and keeping track of them means you can use them to test and automate things for continuous delivery.
+
+In the end, I think I enjoy the creativity that comes with destructive testing and the reassurance that known bugs and problems can be found internally before deploying the software.
+
+In terms of the most or least challenging topic of the course, I found the configuration management topic most challenging since I did not have a machine to try out SaltStack. I would have also liked to try out Vagrant, Serverspec and Graphite. Using Git was the easiest challenge since I was already familiar with GitHub and Atom.
